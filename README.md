@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evankoehler
-- 👀 I’m interested in frontend technologies, vehicles, and paragliding. 
-- 🌱 I’m currently learning how to paraglide long distance!
+- 👀 I’m interested in frontend technologies, vehicles, and tech. 
+- 🌱 I’m currently learning how to code in swift!
 - 📫 How to reach me: [Personal Website](https://evankoehler.com)
 
 <!---
