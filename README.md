@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @evankoehler
+[![Github IO Page](star_sky.png)](https://evankoehler.github.io/)
+
+
+### 👋 Hi, I’m @evankoehler
 - 👀 I’m interested in frontend technologies, vehicles, and tech. 
-- 🌱 I’m currently learning how to code in swift!
+- 🌱 I’m currently learning react native.
+- 🏢 Currently working as a development manager.
 - 📫 How to reach me: [Personal Website](https://evankoehler.com)
 
 <!---
