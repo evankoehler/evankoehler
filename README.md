@@ -2,8 +2,8 @@
 
 
 ### 👋 Hi, I’m @evankoehler
-- 👀 I’m interested in frontend technologies, vehicles, and tech. 
-- 🌱 I’m currently learning react native.
+- 👀 I’m interested in ai technologies, vehicles, and tech. 
+- 🌱 I’m currently rocking kiro cli, codex, and antigravity.
 - 🏢 Currently working as a development manager.
 - 📫 How to reach me: [Personal Website](https://evankoehler.com)
 
